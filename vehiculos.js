@@ -1,0 +1,3 @@
+"auto";
+"moto";
+"camion"
