@@ -12,3 +12,6 @@ let elegir = function(razas){
 
 }
 console.log(elegir(razas))
+"Caballo";
+"Silla";
+"Mesa";
