@@ -1,3 +1,5 @@
 "Perro";
 "Gato";
-"Caballo"
+"Caballo";
+"Silla";
+"Mesa";
